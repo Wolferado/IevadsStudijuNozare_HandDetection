@@ -1,6 +1,6 @@
 # "Sign Language Detection and Display" Prototype
 
-This repository contains a Jupiter Notebook with created program _(prototype)_, which takes your Webcam Video as an input and scans it for any hand signs _(currently only for the left hand)_.
+This repository contains a Jupiter Notebook with created program _(prototype)_, which takes your Webcam Video as an input and scans it for any hand signs _(currently only for the left hand)_. The goal of the program is to display needed sign based on the hand and fingers positions.
 
 Created program language is Python.
 
