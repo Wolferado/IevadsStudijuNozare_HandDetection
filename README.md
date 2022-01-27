@@ -10,9 +10,15 @@ API: _https://google.github.io/mediapipe/solutions/hands_
 
 The prototype was created with a purpose to make deaf and/or numb people communicate easier with other people who don't know the sign language.
 
-The list of available signs is available here: ![https://github.com/Wolferado/IevadsStudijuNozare_HandDetection/blob/main/Images%20for%20Markdown/available_signs.png](https://github.com/Wolferado/IevadsStudijuNozare_HandDetection/blob/main/Images%20for%20Markdown/available_signs.png)
+The list of available signs is available here: 
+
+<img src="https://github.com/Wolferado/IevadsStudijuNozare_HandDetection/blob/main/Images%20for%20Markdown/available_signs.png" width="40%" height="40%" alt="https://github.com/Wolferado/IevadsStudijuNozare_HandDetection/blob/main/Images%20for%20Markdown/available_signs.png">
+
+<div align="center">
 
 The view of the program:
-
-![https://github.com/Wolferado/IevadsStudijuNozare_HandDetection/blob/main/Images%20for%20Markdown/letterA_detection.jpeg](https://github.com/Wolferado/IevadsStudijuNozare_HandDetection/blob/main/Images%20for%20Markdown/letterA_detection.jpeg)
-![https://github.com/Wolferado/IevadsStudijuNozare_HandDetection/blob/main/Images%20for%20Markdown/letterU_detection.jpeg](https://github.com/Wolferado/IevadsStudijuNozare_HandDetection/blob/main/Images%20for%20Markdown/letterU_detection.jpeg)
+  
+<img src="https://github.com/Wolferado/IevadsStudijuNozare_HandDetection/blob/main/Images%20for%20Markdown/letterA_detection.jpeg" width="40%" height="40%" alt="https://github.com/Wolferado/IevadsStudijuNozare_HandDetection/blob/main/Images%20for%20Markdown/letterA_detection.jpeg">
+<img src="https://github.com/Wolferado/IevadsStudijuNozare_HandDetection/blob/main/Images%20for%20Markdown/letterU_detection.jpeg" width="40%" height="40%" alt="https://github.com/Wolferado/IevadsStudijuNozare_HandDetection/blob/main/Images%20for%20Markdown/letterU_detection.jpeg">
+  
+</div>
