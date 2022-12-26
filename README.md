@@ -1,6 +1,17 @@
 # "Sign Language Detection and Display" Prototype
 
-This repository contains a Jupiter Notebook with created program _(prototype)_, which takes your Webcam Video as an input and scans it for any hand signs _(from the Latvian Sign Language)_. The goal of the program is to display needed sign based on the hand and fingers positions.
+## IMPORTANT NOTE!
+This project has been **archived** due to unability to develop it further.
+
+Reasons:
+- Mediapipe library is unable to get installed on Python with version newer or equal 3.9.
+
+Even though it is theoretically (even practically) possible, I'm not willing to get out of my way to downgrade Python's version for the sake of this project, no matter the good that can come out of it.
+
+Note will be removed, if my decision will change. 
+##
+
+This repository contains a Jupiter Notebook with created program _(prototype)_, that takes your Webcam Video as an input and scans it for any hand signs _(from the Latvian Sign Language)_. The goal of the program is to display needed sign based on the hand and fingers positions.
 
 Created program language is Python.
 
