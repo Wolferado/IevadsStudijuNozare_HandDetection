@@ -20,7 +20,7 @@
 
 <div align="start">
   
-<img src="https://github.com/Wolferado/IevadsStudijuNozare_HandDetection/blob/main/Images%20for%20Markdown/letterA_detection.jpeg" width="25%" height="25%" alt="https://github.com/Wolferado/IevadsStudijuNozare_HandDetection/blob/main/Images%20for%20Markdown/letterA_detection.jpeg">
-<img src="https://github.com/Wolferado/IevadsStudijuNozare_HandDetection/blob/main/Images%20for%20Markdown/letterU_detection.jpeg" width="25%" height="25%" alt="https://github.com/Wolferado/IevadsStudijuNozare_HandDetection/blob/main/Images%20for%20Markdown/letterU_detection.jpeg">
+<img src="https://github.com/Wolferado/IevadsStudijuNozare_HandDetection/blob/main/Images%20for%20Markdown/letterA_detection.jpeg" width="45%" height="45%" alt="https://github.com/Wolferado/IevadsStudijuNozare_HandDetection/blob/main/Images%20for%20Markdown/letterA_detection.jpeg">
+<img src="https://github.com/Wolferado/IevadsStudijuNozare_HandDetection/blob/main/Images%20for%20Markdown/letterU_detection.jpeg" width="45%" height="45%" alt="https://github.com/Wolferado/IevadsStudijuNozare_HandDetection/blob/main/Images%20for%20Markdown/letterU_detection.jpeg">
   
 </div>
