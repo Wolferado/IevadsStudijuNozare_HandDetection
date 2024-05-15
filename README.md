@@ -2,15 +2,21 @@
 
 > [!WARNING]
 > This project has been archived due to these reasons:
-> - It has basic functionality that was necessary to develop during production time
-> - No interest to develop it further in the current state
+> - It has basic functionality that was necessary to develop during production time for university course.
+
+> [!IMPORTANT]
+> Bear in mind that this project has been created in 2021 and is extremely outdated, both in terms of code writing and logic thinking.
+> 
+> Recent changes in the code are necessary for bachelor's thesis.
 
 > [!NOTE]
 > This repository contains a Jupiter Notebook with created program _(prototype)_, that takes your Webcam Video as an input and scans it for static hand signs _(from the Latvian Sign Language)_.
 >
 > The goal of the program is to display needed sign based on the hand and fingers positions.
 
-[MediaPipe Hands Solution API](https://google.github.io/mediapipe/solutions/hands) is used to track hands and make it available to detect hands and display necessary letters based on the hand landmarks.
+[MediaPipe Hands Solution API](https://github.com/google-ai-edge/mediapipe) is used to track hands and make it available to detect hands and display necessary letters based on the hand landmarks.
+
+Documentation used: [MediaPipe Hands Solution API Docs](https://github.com/google-ai-edge/mediapipe/blob/master/docs/solutions/hands.md)
 
 ### The table of available signs is available here _(only outlined signs are implemented)_: 
 
